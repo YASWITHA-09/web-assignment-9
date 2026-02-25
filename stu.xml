@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="stu.xsl"?>
+
+<University>
+    <User type="Student">
+        <ID>01</ID>
+        <Name>Yaswitha</Name>
+        <Department>Computer Science</Department>
+        <Email>yatui#12@gmail.com</Email>
+        <Phone>9876543210</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>02</ID>
+        <Name>Dr.Smitha</Name>
+        <Department>Mathematics</Department>
+        <Email>smitha@gmail.com</Email>
+        <Phone>9123456760</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>03</ID>
+        <Name>jhoson</Name>
+        <Department>Physics</Department>
+        <Email>johnson@gmail.com</Email>
+        <Phone>9988776785</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>04</ID>
+        <Name>Dr. kiran</Name>
+        <Department>Chemistry</Department>
+        <Email>kiran@gmail.com</Email>
+        <Phone>9578518548</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>05</ID>
+        <Name>deekshitha</Name>
+        <Department>Biology</Department>
+        <Email>deekshitha8437@gmail.com</Email>
+        <Phone>9877954567</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>06</ID>
+        <Name>Dr. mahalakshmi</Name>
+        <Department>English</Department>
+        <Email>mahalak@gmail.com</Email>
+        <Phone>9012345678</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>07</ID>
+        <Name>madhun sunandha</Name>
+        <Department>Economics</Department>
+        <Email>madhu8247@gmail.com</Email>
+        <Phone>9887766554</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>08</ID>
+        <Name>Dr. sudha lakshmi</Name>
+        <Department>History</Department>
+        <Email>sudha85@gmail.com</Email>
+        <Phone>9345678901</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>09</ID>
+        <Name>shekhar</Name>
+        <Department>Mechanical Engineering</Department>
+        <Email>shekhar45@gmail.com</Email>
+        <Phone>9765432109</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>10</ID>
+        <Name>Dr. subramanyam</Name>
+        <Department>Electrical Engineering</Department>
+        <Email>subramanyam5@gmail.com</Email>
+        <Phone>9654327930</Phone>
+    </User>
+</University>
